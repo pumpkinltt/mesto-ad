@@ -309,3 +309,4 @@ Promise.all([getCardList(), getUserInfo()])
     console.log(err);
   });
 
+// проверка
